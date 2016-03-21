@@ -1,0 +1,3 @@
+qhue
+pyaudio
+numpy
